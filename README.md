@@ -45,4 +45,8 @@ A full-stack MERN application that allows users to securely upload CSV files, pe
    Based on experience and education level, a mock salary is predicted.
 
    ```js
-   Forecasted_Salary = 10000 + (experience * 200) + (education === "Masters" ? 1000 : 0)
+   Forecasted_Salary = 10000 + (experience * 200) + (education === "Masters" ? 1000 : 0
+
+https://github.com/user-attachments/assets/b9a4cefa-2f2a-43ec-8788-8362a5361493
+
+)
